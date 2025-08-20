@@ -1,4 +1,4 @@
-# PDF Image Converter
+# PDF Image Toggler
 
 Convert between images and PDFs via a simple interactive CLI.
 
